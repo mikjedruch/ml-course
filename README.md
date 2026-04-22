@@ -18,3 +18,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/mikjedruch/ml-course/blob/main/hw5.ipynb)
+
+# Homework 7
+
+[Open notebook](https://github.com/mikjedruch/ml-course/blob/main/hw7.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/mikjedruch/ml-course/blob/main/hw7.ipynb)
