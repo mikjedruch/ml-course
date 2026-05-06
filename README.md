@@ -32,3 +32,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/mikjedruch/ml-course/blob/main/hw8.ipynb)
+
+# Homework 9
+
+[Open notebook](https://github.com/mikjedruch/ml-course/blob/main/hw9.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/mikjedruch/ml-course/blob/main/hw9.ipynb)
